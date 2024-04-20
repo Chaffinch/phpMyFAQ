@@ -1432,7 +1432,7 @@ $PMF_LANG['msgCSVFileNotValidated'] = 'Wygląda na to, że plik nie ma odpowiedn
 // added v4.0.0-alpha - 2024-01-13 by Jan
 $PMF_LANG['msgExportSessionsAsCSV'] = 'Eksportuj sesje jako plik CSV';
 $PMF_LANG['msgExportSessions'] = 'Eksport Sesji';
-$PMF_LANG['msgExportSessionsFrom'] = 'Z';
+$PMF_LANG['msgExportSessionsFrom'] = 'Od';
 $PMF_LANG['msgExportSessionsTo'] = 'Do';
 
 return $PMF_LANG;
